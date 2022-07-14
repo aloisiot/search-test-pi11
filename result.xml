@@ -1,0 +1,176 @@
+<atom:feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:spelling="http://a9.com/-/opensearch/extensions/spelling/1.0/" xmlns:wplc="http://www.ibm.com/wplc/atom/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<atom:title>Resultados da procura para a consulta "veiculo" no Ã­ndice "Remote PSE service EJB::/opt/IBM/WebSphere/Profiles/wp_profile/PortalServer/collections/nova_coleta_institucional"</atom:title>
+<atom:link href="/contenthandler/!ut/p/digest!wpLFzl8G70y6jtkpqpHIfA/searchfeed/search?queryLang=pt-BR&locale=pt-BR&resultLang=pt-BR&facet=%7b%27id%27%3a%20%27tag%27%2c%20%27count%27%3a%20%27ALL%27%7d%2c%7b%27id%27%3a%20%27category%27%2c%20%27count%27%3a%20%27ALL%27%7d&index=Remote%20PSE%20service%20EJB%3a%3a/opt/IBM/WebSphere/Profiles/wp_profile/PortalServer/collections/nova_coleta_institucional&query=veiculo&start=0&results=6&querySuggestionEnabled=true" rel="self" type="application/atom+xml"/>
+<atom:author>
+<atom:name>ServiÃ§o da Web da API de Procura Corporativa.</atom:name>
+</atom:author>
+<atom:id>
+/contenthandler/!ut/p/digest!wpLFzl8G70y6jtkpqpHIfA/searchfeed/search?queryLang=pt-BR
+<![CDATA[ &locale=pt-BR&resultLang=pt-BR&facet=%7b%27id%27%3a%20%27tag%27%2c%20%27count%27%3a%20%27ALL%27%7d%2c%7b%27id%27%3a%20%27category%27%2c%20%27count%27%3a%20%27ALL%27%7d&index=Remote%20PSE%20service%20EJB%3a%3a/opt/IBM/WebSphere/Profiles/wp_profile/PortalServer/collections/nova_coleta_institucional&query=veiculo&start=0&results=6&querySuggestionEnabled=true ]]>
+</atom:id>
+<atom:category term="Remote PSE service EJB::/opt/IBM/WebSphere/Profiles/wp_profile/PortalServer/collections/nova_coleta_institucional" label="Remote PSE service EJB::/opt/IBM/WebSphere/Profiles/wp_profile/PortalServer/collections/nova_coleta_institucional"/>
+<atom:updated>2022-07-14T17:25:01.890Z</atom:updated>
+<opensearch:totalResults exact="false">78</opensearch:totalResults>
+<opensearch:Query role="request" searchTerms="veiculo"/>
+<opensearch:startIndex>0</opensearch:startIndex>
+<opensearch:itemsPerPage>6</opensearch:itemsPerPage>
+<spelling:spelling>
+<spelling:suggestion>veículos</spelling:suggestion>
+</spelling:spelling>
+<atom:entry>
+<atom:id>http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-light</atom:id>
+<atom:title type="text/html">Auto Light | Bradesco Seguros</atom:title>
+<atom:link href="http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-light" type="text/html"/>
+<atom:category term="ContentSourceType/Web" scheme="com.ibm.wplc.taxonomy://feature_taxonomy" label="Documento da Web"/>
+<opensearch:relevance>100.0</opensearch:relevance>
+<atom:updated>2022-07-14T07:00:59.451Z</atom:updated>
+<atom:summary type="html">
+<![CDATA[ <Strong>Resumo:</Strong> Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. O seguro Auto Light Bradesco Rede Referenciada tem coberturas essenciais contra colisões, roubo, furto e custa mais barato. ]]>
+</atom:summary>
+<atom:link href="/images/icons/search_link_web.gif" rel="icon"/>
+<wplc:field id="contentsourcetype">Web</wplc:field>
+<wplc:field id="doctype">text/html</wplc:field>
+<wplc:field id="doctype">text/*</wplc:field>
+<wplc:field id="summary">Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. O seguro Auto Light Bradesco Rede Referenciada tem coberturas essenciais contra colisões, roubo, furto e custa mais barato.</wplc:field>
+<wplc:field id="doc_source">Web</wplc:field>
+<wplc:field id="keywords">seguro, carro, barato, popular</wplc:field>
+<wplc:field id="docid">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-light</wplc:field>
+<wplc:field id="description">O seguro Auto Light Bradesco tem coberturas essenciais contra colisões, roubo, furto e custa mais barato. Fale com seu corretor!</wplc:field>
+<wplc:field id="display_uri">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-light</wplc:field>
+<wplc:field id="lang">pt</wplc:field>
+<wplc:field id="lang">pt_BR</wplc:field>
+<wplc:field id="title">Auto Light | Bradesco Seguros</wplc:field>
+<wplc:field id="update_date">1657782059451</wplc:field>
+<wplc:field id="contentSourceType">Web</wplc:field>
+</atom:entry>
+<atom:entry>
+<atom:id>http://instsearcha.bradescoseguros.com.br/clientes/noticias/noticia/guia-virtual-crlv-digital</atom:id>
+<atom:title type="text/html">Guia Virtual orienta clientes sobres CRLV Digital | Bradesco Seguros</atom:title>
+<atom:link href="http://instsearcha.bradescoseguros.com.br/clientes/noticias/noticia/guia-virtual-crlv-digital" type="text/html"/>
+<atom:category term="ContentSourceType/Web" scheme="com.ibm.wplc.taxonomy://feature_taxonomy" label="Documento da Web"/>
+<opensearch:relevance>95.8844985961914</opensearch:relevance>
+<atom:updated>2022-07-08T07:07:18.031Z</atom:updated>
+<atom:summary type="html">
+<![CDATA[ <Strong>Resumo:</Strong> Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. Com objetivo de orientar consumidores, a Bradesco Seguros preparou material exclusivo com o passo a passo sobre como ter acesso ao documento. ]]>
+</atom:summary>
+<atom:link href="/images/icons/search_link_web.gif" rel="icon"/>
+<wplc:field id="contentsourcetype">Web</wplc:field>
+<wplc:field id="doctype">text/html</wplc:field>
+<wplc:field id="doctype">text/*</wplc:field>
+<wplc:field id="summary">Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. Com objetivo de orientar consumidores, a Bradesco Seguros preparou material exclusivo com o passo a passo sobre como ter acesso ao documento.</wplc:field>
+<wplc:field id="doc_source">Web</wplc:field>
+<wplc:field id="keywords">notícias, bradesco, seguros</wplc:field>
+<wplc:field id="docid">http://instsearcha.bradescoseguros.com.br/clientes/noticias/noticia/guia-virtual-crlv-digital</wplc:field>
+<wplc:field id="description">Com objetivo de orientar consumidores, a Bradesco Seguros preparou um Guia Virtual exclusivo com o passo a passo sobre como ter acesso ao Certificado de Registro e Licenciamento de Veículo digital.</wplc:field>
+<wplc:field id="display_uri">http://instsearcha.bradescoseguros.com.br/clientes/noticias/noticia/guia-virtual-crlv-digital</wplc:field>
+<wplc:field id="lang">pt</wplc:field>
+<wplc:field id="lang">pt_BR</wplc:field>
+<wplc:field id="title">Guia Virtual orienta clientes sobres CRLV Digital | Bradesco Seguros</wplc:field>
+<wplc:field id="update_date">1657264038031</wplc:field>
+<wplc:field id="contentSourceType">Web</wplc:field>
+</atom:entry>
+<atom:entry>
+<atom:id>http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-correntista</atom:id>
+<atom:title type="text/html">Auto Correntista | Bradesco Seguros</atom:title>
+<atom:link href="http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-correntista" type="text/html"/>
+<atom:category term="ContentSourceType/Web" scheme="com.ibm.wplc.taxonomy://feature_taxonomy" label="Documento da Web"/>
+<opensearch:relevance>94.88623809814453</opensearch:relevance>
+<atom:updated>2022-07-14T07:00:59.011Z</atom:updated>
+<atom:summary type="html">
+<![CDATA[ <Strong>Resumo:</Strong> Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. O Bradesco Seguro Auto correntista é exclusivo para correntistas do banco Bradesco e possui coberturas básicas e adicionais para seu carro. ]]>
+</atom:summary>
+<atom:link href="/images/icons/search_link_web.gif" rel="icon"/>
+<wplc:field id="contentsourcetype">Web</wplc:field>
+<wplc:field id="doctype">text/html</wplc:field>
+<wplc:field id="doctype">text/*</wplc:field>
+<wplc:field id="summary">Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. O Bradesco Seguro Auto correntista é exclusivo para correntistas do banco Bradesco e possui coberturas básicas e adicionais para seu carro.</wplc:field>
+<wplc:field id="doc_source">Web</wplc:field>
+<wplc:field id="keywords">Auto, correntista</wplc:field>
+<wplc:field id="docid">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-correntista</wplc:field>
+<wplc:field id="description">O Bradesco Seguro Auto correntista é exclusivo para correntistas do banco Bradesco e possui coberturas básicas e adicionais para seu carro. Faça uma cotação!</wplc:field>
+<wplc:field id="display_uri">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-correntista</wplc:field>
+<wplc:field id="lang">pt</wplc:field>
+<wplc:field id="lang">pt_BR</wplc:field>
+<wplc:field id="title">Auto Correntista | Bradesco Seguros</wplc:field>
+<wplc:field id="update_date">1657782059011</wplc:field>
+<wplc:field id="contentSourceType">Web</wplc:field>
+</atom:entry>
+<atom:entry>
+<atom:id>http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/seguro-auto</atom:id>
+<atom:title type="text/html">Bradesco Seguro Auto | Bradesco Seguros</atom:title>
+<atom:link href="http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/seguro-auto" type="text/html"/>
+<atom:category term="ContentSourceType/Web" scheme="com.ibm.wplc.taxonomy://feature_taxonomy" label="Documento da Web"/>
+<opensearch:relevance>93.66004180908203</opensearch:relevance>
+<atom:updated>2022-07-14T07:00:57.209Z</atom:updated>
+<atom:summary type="html">
+<![CDATA[ <Strong>Resumo:</Strong> Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. Parâmetros de resultado de busca. ]]>
+</atom:summary>
+<atom:link href="/images/icons/search_link_web.gif" rel="icon"/>
+<wplc:field id="contentsourcetype">Web</wplc:field>
+<wplc:field id="doctype">text/html</wplc:field>
+<wplc:field id="doctype">text/*</wplc:field>
+<wplc:field id="summary">Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. Parâmetros de resultado de busca.</wplc:field>
+<wplc:field id="doc_source">Web</wplc:field>
+<wplc:field id="keywords">seguro, auto, seguro, para, automóvel, seguro, de, carro</wplc:field>
+<wplc:field id="docid">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/seguro-auto</wplc:field>
+<wplc:field id="description">O Bradesco Seguro Auto possui coberturas básicas e adicionais para seu carro, além de serviços que oferecem mais segurança para você e sua família. Confira!</wplc:field>
+<wplc:field id="display_uri">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/seguro-auto</wplc:field>
+<wplc:field id="lang">pt</wplc:field>
+<wplc:field id="lang">pt_BR</wplc:field>
+<wplc:field id="title">Bradesco Seguro Auto | Bradesco Seguros</wplc:field>
+<wplc:field id="update_date">1657782057209</wplc:field>
+<wplc:field id="contentSourceType">Web</wplc:field>
+</atom:entry>
+<atom:entry>
+<atom:id>http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-mulher</atom:id>
+<atom:title type="text/html">Auto Mulher | Bradesco Seguros</atom:title>
+<atom:link href="http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-mulher" type="text/html"/>
+<atom:category term="ContentSourceType/Web" scheme="com.ibm.wplc.taxonomy://feature_taxonomy" label="Documento da Web"/>
+<opensearch:relevance>88.5977783203125</opensearch:relevance>
+<atom:updated>2022-07-14T07:00:57.519Z</atom:updated>
+<atom:summary type="html">
+<![CDATA[ <Strong>Resumo:</Strong> Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. Parâmetros de resultado de busca. ]]>
+</atom:summary>
+<atom:link href="/images/icons/search_link_web.gif" rel="icon"/>
+<wplc:field id="contentsourcetype">Web</wplc:field>
+<wplc:field id="doctype">text/html</wplc:field>
+<wplc:field id="doctype">text/*</wplc:field>
+<wplc:field id="summary">Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. Parâmetros de resultado de busca.</wplc:field>
+<wplc:field id="doc_source">Web</wplc:field>
+<wplc:field id="keywords">seguro, auto, seguro, para, automóvel, seguro, de, carro</wplc:field>
+<wplc:field id="docid">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-mulher</wplc:field>
+<wplc:field id="description">O Bradesco Seguro Auto Mulher oferece benefícios especiais para o público feminino. Conheça as vantagens que você terá ao obter esse plano especial!</wplc:field>
+<wplc:field id="display_uri">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-mulher</wplc:field>
+<wplc:field id="lang">pt</wplc:field>
+<wplc:field id="lang">pt_BR</wplc:field>
+<wplc:field id="title">Auto Mulher | Bradesco Seguros</wplc:field>
+<wplc:field id="update_date">1657782057519</wplc:field>
+<wplc:field id="contentSourceType">Web</wplc:field>
+</atom:entry>
+<atom:entry>
+<atom:id>http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-residencial</atom:id>
+<atom:title type="text/html">Auto e Residencial | Bradesco Seguros</atom:title>
+<atom:link href="http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-residencial" type="text/html"/>
+<atom:category term="ContentSourceType/Web" scheme="com.ibm.wplc.taxonomy://feature_taxonomy" label="Documento da Web"/>
+<opensearch:relevance>87.58633422851562</opensearch:relevance>
+<atom:updated>2021-10-06T07:00:54.914Z</atom:updated>
+<atom:summary type="html">
+<![CDATA[ <Strong>Resumo:</Strong> Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. Bradesco Auto/RE Companhia de Seguros CNPJ: 92.682.038/0001-00. ]]>
+</atom:summary>
+<atom:link href="/images/icons/search_link_web.gif" rel="icon"/>
+<wplc:field id="contentsourcetype">Web</wplc:field>
+<wplc:field id="doctype">text/html</wplc:field>
+<wplc:field id="doctype">text/*</wplc:field>
+<wplc:field id="summary">Usamos cookies para oferecer a melhor experiência e analisar o uso de nosso site, direcionar conteúdos e anúncios personalizados e facilitar a navegação de forma segura. Para mais informações, consulte nossa Diretiva de Privacidade. Bradesco Auto/RE Companhia de Seguros CNPJ: 92.682.038/0001-00.</wplc:field>
+<wplc:field id="doc_source">Web</wplc:field>
+<wplc:field id="keywords">seguro, auto, seguro, para, automóvel, seguro, de, carro</wplc:field>
+<wplc:field id="docid">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-residencial</wplc:field>
+<wplc:field id="description">O Bradesco Seguro Auto e Residencial é a solução completa para cuidar da sua casa e do seu carro em um só plano. Conheça e solicite agora!</wplc:field>
+<wplc:field id="display_uri">http://instsearcha.bradescoseguros.com.br/clientes/produtos/seguro-auto/auto-residencial</wplc:field>
+<wplc:field id="lang">pt</wplc:field>
+<wplc:field id="lang">pt_BR</wplc:field>
+<wplc:field id="title">Auto e Residencial | Bradesco Seguros</wplc:field>
+<wplc:field id="update_date">1633503654914</wplc:field>
+<wplc:field id="contentSourceType">Web</wplc:field>
+</atom:entry>
+</atom:feed>
